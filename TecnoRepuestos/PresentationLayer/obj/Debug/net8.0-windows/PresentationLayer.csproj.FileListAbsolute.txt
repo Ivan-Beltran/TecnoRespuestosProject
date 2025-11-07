@@ -1,0 +1,16 @@
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.exe
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.deps.json
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Form1.resources
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\obj\Debug\net8.0-windows\refint\PresentationLayer.dll
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\josue\Desktop\TecnoRepuestos\PresentationLayer\obj\Debug\net8.0-windows\ref\PresentationLayer.dll

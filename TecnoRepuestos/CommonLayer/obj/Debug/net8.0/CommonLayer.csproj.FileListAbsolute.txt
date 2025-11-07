@@ -1,0 +1,11 @@
+C:\Users\josue\Desktop\TecnoRepuestos\CommonLayer\bin\Debug\net8.0\CommonLayer.deps.json
+C:\Users\josue\Desktop\TecnoRepuestos\CommonLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\josue\Desktop\TecnoRepuestos\CommonLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\josue\Desktop\TecnoRepuestos\CommonLayer\obj\Debug\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\TecnoRepuestos\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\TecnoRepuestos\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfo.cs
+C:\Users\josue\Desktop\TecnoRepuestos\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\TecnoRepuestos\CommonLayer\obj\Debug\net8.0\CommonLayer.dll
+C:\Users\josue\Desktop\TecnoRepuestos\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
+C:\Users\josue\Desktop\TecnoRepuestos\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
+C:\Users\josue\Desktop\TecnoRepuestos\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
