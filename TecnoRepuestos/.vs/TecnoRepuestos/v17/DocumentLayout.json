@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\productsrepo\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\productsrepo\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\dbconnect\\sqlconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\dbconnect\\sqlconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\dataacceslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\dataacceslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\addsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\addsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -67,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\productsrepo\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\productsrepo\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\accountsrepo\\accountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\accountsrepo\\accountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -85,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\businesslayer\\services\\serveceforaccounts\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\serveceforaccounts\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\dataacceslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\dataacceslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\forms\\selectproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -166,7 +170,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,44 +178,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginRepository.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
-              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
-              "RelativeToolTip": "DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowCYAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SqlConnect.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\dbConnect\\SqlConnect.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\dbConnect\\SqlConnect.cs",
+              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\dbConnect\\SqlConnect.cs",
+              "RelativeToolTip": "DataAccesLayer\\dbConnect\\SqlConnect.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T20:16:39.915Z",
+              "WhenOpened": "2025-11-24T21:11:56.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Suppliers.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Suppliers.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Suppliers.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Suppliers.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PresentationLayer\\UsersControls\\Suppliers.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:30:34.136Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PurchaseRegister.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\PurchaseRegister.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\PurchaseRegister.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\PurchaseRegister.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PresentationLayer\\UsersControls\\PurchaseRegister.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:53:12.037Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AddSales.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AddSales.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\AddSales.cs",
@@ -224,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Login.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Forms\\Login.cs",
@@ -232,12 +212,11 @@
               "RelativeToolTip": "PresentationLayer\\Forms\\Login.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAqwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T02:13:02.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T02:13:02.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AddSales.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AddSales.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\AddSales.cs",
@@ -249,7 +228,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:25:37.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchaseRegister.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\PurchaseRegister.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\PurchaseRegister.cs",
+              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\PurchaseRegister.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentationLayer\\UsersControls\\PurchaseRegister.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:53:12.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccesLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\DataAccesLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccesLayer\\DataAccesLayer.csproj",
+              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\DataAccesLayer.csproj",
+              "RelativeToolTip": "DataAccesLayer\\DataAccesLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T17:02:13.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Suppliers.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Suppliers.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Suppliers.cs",
+              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Suppliers.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentationLayer\\UsersControls\\Suppliers.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:30:34.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:16:39.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SalesRepository.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\SalesRepo\\SalesRepository.cs",
               "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\SalesRepo\\SalesRepository.cs",
@@ -257,12 +296,11 @@
               "RelativeToolTip": "DataAccesLayer\\Repositories\\SalesRepo\\SalesRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T19:33:24.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T19:33:24.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Dashboard.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Dashboard.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Forms\\Dashboard.cs",
@@ -275,19 +313,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Dashboard.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Dashboard.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Forms\\Dashboard.cs",
               "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Dashboard.cs [Dise\u00F1o]",
               "RelativeToolTip": "PresentationLayer\\Forms\\Dashboard.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:56:26.766Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-11-20T16:56:26.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Program.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Program.cs",
@@ -295,12 +332,11 @@
               "RelativeToolTip": "PresentationLayer\\Program.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAgwDsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T02:15:53.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T02:15:53.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "SaleServices.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForSales\\SaleServices.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Services\\ServiceForSales\\SaleServices.cs",
@@ -308,12 +344,11 @@
               "RelativeToolTip": "BusinessLayer\\Services\\ServiceForSales\\SaleServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T20:38:16.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T20:38:16.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\User.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Entities\\User.cs",
@@ -321,12 +356,11 @@
               "RelativeToolTip": "CommonLayer\\Entities\\User.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T20:14:16.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T20:14:16.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "UserSession.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\UserSession.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Entities\\UserSession.cs",
@@ -334,12 +368,11 @@
               "RelativeToolTip": "CommonLayer\\Entities\\UserSession.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAIwBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T20:15:08.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T20:15:08.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "LoginService.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForLogin\\LoginService.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Services\\ServiceForLogin\\LoginService.cs",
@@ -347,12 +380,11 @@
               "RelativeToolTip": "BusinessLayer\\Services\\ServiceForLogin\\LoginService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T20:16:30.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T20:16:30.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "AccountsRepository.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\AccountsRepo\\AccountsRepository.cs",
               "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\AccountsRepo\\AccountsRepository.cs",
@@ -360,12 +392,11 @@
               "RelativeToolTip": "DataAccesLayer\\Repositories\\AccountsRepo\\AccountsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T02:03:02.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T02:03:02.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "AccountService.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServeceForAccounts\\AccountService.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Services\\ServeceForAccounts\\AccountService.cs",
@@ -373,12 +404,11 @@
               "RelativeToolTip": "BusinessLayer\\Services\\ServeceForAccounts\\AccountService.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T02:08:11.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T02:08:11.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForProduct\\ProductService.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Services\\ServiceForProduct\\ProductService.cs",
@@ -386,12 +416,11 @@
               "RelativeToolTip": "BusinessLayer\\Services\\ServiceForProduct\\ProductService.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAuwDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T20:26:57.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T20:26:57.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "AccountPaybles.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\AccountPaybles.cs",
@@ -404,57 +433,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Products.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Products.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Products.cs",
               "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Products.cs [Dise\u00F1o]",
               "RelativeToolTip": "PresentationLayer\\UsersControls\\Products.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T17:19:39.956Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProductsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
-              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
-              "RelativeToolTip": "DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T20:25:37.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T17:19:39.956Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "DataAccesLayer",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\DataAccesLayer.csproj",
-              "RelativeDocumentMoniker": "DataAccesLayer\\DataAccesLayer.csproj",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\DataAccesLayer.csproj",
-              "RelativeToolTip": "DataAccesLayer\\DataAccesLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-24T17:02:13.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "AccountPaybles.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\AccountPaybles.cs",
               "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.cs [Dise\u00F1o]",
               "RelativeToolTip": "PresentationLayer\\UsersControls\\AccountPaybles.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T01:49:24.422Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-11-21T01:49:24.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CustomersRepository.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\CustomersRepo\\CustomersRepository.cs",
               "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\CustomersRepo\\CustomersRepository.cs",
@@ -466,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "AccountPaybles.Designer.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.Designer.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\AccountPaybles.Designer.cs",
@@ -474,12 +475,11 @@
               "RelativeToolTip": "PresentationLayer\\UsersControls\\AccountPaybles.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T02:31:58.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T02:31:58.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "SelectProducts.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectProducts.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectProducts.cs",
@@ -492,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Customers.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Customers.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Customers.cs",
@@ -505,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Customers.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Customers.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Customers.cs",
@@ -516,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "PurchaseRegister.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\PurchaseRegister.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\PurchaseRegister.cs",
@@ -528,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "SuppliersRepository.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\SuppliersRepo\\SuppliersRepository.cs",
               "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\SuppliersRepo\\SuppliersRepository.cs",
@@ -540,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "SelectFinishDate.Designer.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectFinishDate.Designer.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectFinishDate.Designer.cs",
@@ -552,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "SelectFinishDate.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectFinishDate.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectFinishDate.cs",
@@ -564,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "PurchaseProduct.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\PurchaseProduct.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Entities\\PurchaseProduct.cs",
@@ -576,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "PurchaseItem.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\PurchaseItem.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Entities\\PurchaseItem.cs",
@@ -588,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Entities\\Product.cs",
@@ -600,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "SelectProducts.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectProducts.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectProducts.cs",
@@ -611,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Suppliers.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Suppliers.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Suppliers.cs",
@@ -619,12 +619,11 @@
               "RelativeToolTip": "PresentationLayer\\UsersControls\\Suppliers.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAgwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:37:32.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T16:37:32.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Products.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Products.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Products.cs",
@@ -636,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "SelectSupplier.cs",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectSupplier.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectSupplier.cs",
@@ -649,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "SelectSupplier.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectSupplier.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectSupplier.cs",
