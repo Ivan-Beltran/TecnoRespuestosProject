@@ -37,11 +37,11 @@
             label3 = new Label();
             InvoiceTextBox = new TextBox();
             label2 = new Label();
-            label1 = new Label();
             PurcahseDataGridView = new DataGridView();
             groupBox2 = new GroupBox();
             button3 = new Button();
             AddPurchaseButton = new Button();
+            label1 = new Label();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)PurcahseDataGridView).BeginInit();
             groupBox2.SuspendLayout();
@@ -135,15 +135,6 @@
             label2.TabIndex = 1;
             label2.Text = "numero de factura";
             // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Location = new Point(547, 39);
-            label1.Name = "label1";
-            label1.Size = new Size(126, 20);
-            label1.TabIndex = 0;
-            label1.Text = "agregar producto";
-            // 
             // PurcahseDataGridView
             // 
             PurcahseDataGridView.AllowUserToAddRows = false;
@@ -188,6 +179,15 @@
             AddPurchaseButton.UseVisualStyleBackColor = true;
             AddPurchaseButton.Click += AddPurchaseButton_Click;
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(547, 39);
+            label1.Name = "label1";
+            label1.Size = new Size(126, 20);
+            label1.TabIndex = 0;
+            label1.Text = "agregar producto";
+            // 
             // PurchaseRegister
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -209,7 +209,6 @@
         private GroupBox groupBox1;
         private TextBox InvoiceTextBox;
         private Label label2;
-        private Label label1;
         private ComboBox PaymentTypeComboBox;
         private Label label3;
         private Button button4;
@@ -220,5 +219,6 @@
         private Button AddPurchaseButton;
         private Label SupplierName;
         private Label label4;
+        private Label label1;
     }
 }

@@ -13,7 +13,7 @@ namespace DataAccesLayer.dbConnect
 
         public SqlConnect()
         {
-            _connectionString= "Data Source=ivan;Initial Catalog=TecnoRepuestosDB;Integrated Security=True;Trust Server Certificate=True";
+            _connectionString= "Data Source=.\\SQLEXPRESS;Initial Catalog=TecnoRepuestosDB;Integrated Security=True;Trust Server Certificate=True";
         }
 
         public SqlConnection GetConnection()

@@ -83,7 +83,7 @@ namespace DataAccesLayer.Repositories.ProductsRepo
             string purchaseType,
             string paymentType,
             List<PurchaseItem> items,
-            DateTime? creditEndDate   // <--- Nuevo parámetro
+            DateTime? creditEndDate   
         )
         {
             using (var connection = _dbConnection.GetConnection())

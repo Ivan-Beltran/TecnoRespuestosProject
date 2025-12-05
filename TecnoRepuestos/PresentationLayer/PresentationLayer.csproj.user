@@ -28,9 +28,6 @@
     <Compile Update="UsersControls\Products.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="UsersControls\PurchaseRegister.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
     <Compile Update="UsersControls\Suppliers.cs">
       <SubType>UserControl</SubType>
     </Compile>

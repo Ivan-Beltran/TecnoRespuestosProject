@@ -71,5 +71,10 @@ namespace PresentationLayer.Forms
         {
             OpenControl(new AddSales());
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

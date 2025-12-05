@@ -1,166 +1,174 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\productsrepo\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\productsrepo\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\dbconnect\\sqlconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\dbconnect\\sqlconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\dataacceslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\dataacceslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\addsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\addsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\salesrepo\\salesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\salesrepo\\salesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\userscontrols\\purchaseregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\userscontrols\\purchaseregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\purchaseregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\addsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\addsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\userscontrols\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\userscontrols\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\loginrepo\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\loginrepo\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\commonlayer\\entities\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\entities\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\businesslayer\\services\\serviceforsales\\saleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\serviceforsales\\saleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\commonlayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\businesslayer\\services\\serviceforlogin\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\serviceforlogin\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\businesslayer\\services\\serviceforproduct\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\serviceforproduct\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\userscontrols\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\userscontrols\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\accountsrepo\\accountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\accountsrepo\\accountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\forms\\selectsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\selectsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\accountpaybles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\accountpaybles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\userscontrols\\accountpaybles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\accountpaybles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\businesslayer\\services\\serveceforaccounts\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\serveceforaccounts\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\forms\\selectproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\selectproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\accountpaybles.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\accountpaybles.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\customersrepo\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\customersrepo\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\userscontrols\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\userscontrols\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\purchaseregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\purchaseregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\suppliersrepo\\suppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\suppliersrepo\\suppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\forms\\selectfinishdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\selectfinishdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\forms\\selectfinishdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\selectfinishdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\commonlayer\\entities\\purchaseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\entities\\purchaseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\commonlayer\\entities\\purchaseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\entities\\purchaseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\forms\\selectproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\selectproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\commonlayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\forms\\selectsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\forms\\selectfinishdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\selectfinishdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\forms\\selectproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\selectproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\userscontrols\\addsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\addsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\userscontrols\\accountpaybles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\accountpaybles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\addsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\addsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\productsrepo\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\productsrepo\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\forms\\selectproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\selectproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\loginrepo\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\loginrepo\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\customersrepo\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\customersrepo\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\forms\\selectfinishdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\selectfinishdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\dbconnect\\sqlconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\dbconnect\\sqlconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\dataacceslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\dataacceslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\salesrepo\\salesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\salesrepo\\salesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\commonlayer\\entities\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\entities\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\businesslayer\\services\\serviceforsales\\saleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\serviceforsales\\saleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\commonlayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\businesslayer\\services\\serviceforlogin\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\serviceforlogin\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\businesslayer\\services\\serviceforproduct\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\serviceforproduct\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\accountsrepo\\accountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\accountsrepo\\accountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\accountpaybles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\accountpaybles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\businesslayer\\services\\serveceforaccounts\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90AD29D-4A65-48E9-BC31-6B12832662E2}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\serveceforaccounts\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\accountpaybles.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\accountpaybles.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\purchaseregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\purchaseregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\dataacceslayer\\repositories\\suppliersrepo\\suppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8F5579-A19A-4A1C-A0D0-449B5CBF7E22}|DataAccesLayer\\DataAccesLayer.csproj|solutionrelative:dataacceslayer\\repositories\\suppliersrepo\\suppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\forms\\selectfinishdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\selectfinishdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\commonlayer\\entities\\purchaseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\entities\\purchaseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\commonlayer\\entities\\purchaseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\entities\\purchaseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\commonlayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F57BA0-DDD8-46B0-AFF0-1F33B87ABF5E}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\forms\\selectsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\selectsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\josue\\desktop\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\asus\\onedrive\\escritorio\\proyecto contaduria\\tecnorespuestosproject\\tecnorepuestos\\presentationlayer\\userscontrols\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userscontrols\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\presentationlayer\\forms\\selectsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4EB3F3C0-BD6A-4652-A11B-A211AB332E9B}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\selectsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -173,54 +181,175 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SelectFinishDate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectFinishDate.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectFinishDate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectFinishDate.cs",
+              "RelativeToolTip": "PresentationLayer\\Forms\\SelectFinishDate.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:10:22.025Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwCAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:25:37.255Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Dashboard.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Dashboard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentationLayer\\Forms\\Dashboard.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:56:26.766Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Products.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Products.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Products.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentationLayer\\UsersControls\\Products.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:19:39.956Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customers.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Customers.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Customers.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Customers.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentationLayer\\UsersControls\\Customers.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:05:19.984Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PurchaseRegister.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\PurchaseRegister.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\PurchaseRegister.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\PurchaseRegister.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentationLayer\\UsersControls\\PurchaseRegister.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:53:12.037Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SqlConnect.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\dbConnect\\SqlConnect.cs",
-              "RelativeDocumentMoniker": "DataAccesLayer\\dbConnect\\SqlConnect.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\dbConnect\\SqlConnect.cs",
-              "RelativeToolTip": "DataAccesLayer\\dbConnect\\SqlConnect.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Title": "Suppliers.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Suppliers.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Suppliers.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Suppliers.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentationLayer\\UsersControls\\Suppliers.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:11:56.242Z",
+              "WhenOpened": "2025-11-20T16:30:34.136Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectSupplier.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectSupplier.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectSupplier.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectSupplier.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentationLayer\\Forms\\SelectSupplier.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:30:13.106Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Products.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Products.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Products.cs",
+              "RelativeToolTip": "PresentationLayer\\UsersControls\\Products.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAnwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:28:17.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AddSales.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AddSales.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\AddSales.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AddSales.cs",
-              "RelativeToolTip": "PresentationLayer\\UsersControls\\AddSales.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Title": "SelectFinishDate.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectFinishDate.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectFinishDate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectFinishDate.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentationLayer\\Forms\\SelectFinishDate.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T20:01:44.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T17:10:27.195Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Login.cs",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Login.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Forms\\Login.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Login.cs",
-              "RelativeToolTip": "PresentationLayer\\Forms\\Login.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAqwGgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentationLayer\\Forms\\Login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T02:13:02.231Z"
+              "WhenOpened": "2025-12-04T17:10:28.447Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "SelectProducts.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectProducts.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectProducts.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectProducts.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentationLayer\\Forms\\SelectProducts.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:18:54.967Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountPaybles.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\AccountPaybles.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentationLayer\\UsersControls\\AccountPaybles.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:49:24.422Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AddSales.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AddSales.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AddSales.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\AddSales.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AddSales.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AddSales.cs [Dise\u00F1o]",
               "RelativeToolTip": "PresentationLayer\\UsersControls\\AddSales.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T20:01:12.826Z",
@@ -228,71 +357,113 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
-              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
-              "RelativeToolTip": "DataAccesLayer\\Repositories\\ProductsRepo\\ProductsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "AddSales.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AddSales.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\AddSales.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AddSales.cs",
+              "RelativeToolTip": "PresentationLayer\\UsersControls\\AddSales.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T20:25:37.255Z",
+              "WhenOpened": "2025-11-24T20:01:44.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PurchaseRegister.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\PurchaseRegister.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\PurchaseRegister.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\PurchaseRegister.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PresentationLayer\\UsersControls\\PurchaseRegister.cs [Dise\u00F1o]",
+              "DocumentIndex": 14,
+              "Title": "SelectProducts.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectProducts.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectProducts.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectProducts.cs",
+              "RelativeToolTip": "PresentationLayer\\Forms\\SelectProducts.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAvwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:53:12.037Z"
+              "WhenOpened": "2025-11-20T17:19:55.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Dashboard.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Dashboard.cs",
+              "RelativeToolTip": "PresentationLayer\\Forms\\Dashboard.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAewEUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:56:35.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:16:39.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\CustomersRepo\\CustomersRepository.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\CustomersRepo\\CustomersRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\CustomersRepo\\CustomersRepository.cs",
+              "RelativeToolTip": "DataAccesLayer\\Repositories\\CustomersRepo\\CustomersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:03:16.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SqlConnect.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\dbConnect\\SqlConnect.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\dbConnect\\SqlConnect.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\dbConnect\\SqlConnect.cs",
+              "RelativeToolTip": "DataAccesLayer\\dbConnect\\SqlConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T21:11:56.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Login.cs",
+              "RelativeToolTip": "PresentationLayer\\Forms\\Login.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:13:02.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "DataAccesLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\DataAccesLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\DataAccesLayer.csproj",
               "RelativeDocumentMoniker": "DataAccesLayer\\DataAccesLayer.csproj",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\DataAccesLayer.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\DataAccesLayer.csproj",
               "RelativeToolTip": "DataAccesLayer\\DataAccesLayer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-24T17:02:13.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T17:02:13.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Suppliers.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Suppliers.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Suppliers.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Suppliers.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PresentationLayer\\UsersControls\\Suppliers.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:30:34.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginRepository.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
-              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
-              "RelativeToolTip": "DataAccesLayer\\Repositories\\LoginRepo\\LoginRepository.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowCYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T20:16:39.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "SalesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\SalesRepo\\SalesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\SalesRepo\\SalesRepository.cs",
               "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\SalesRepo\\SalesRepository.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\SalesRepo\\SalesRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\SalesRepo\\SalesRepository.cs",
               "RelativeToolTip": "DataAccesLayer\\Repositories\\SalesRepo\\SalesRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -300,35 +471,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Dashboard.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Dashboard.cs",
-              "RelativeToolTip": "PresentationLayer\\Forms\\Dashboard.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAEwEkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:56:35.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Dashboard.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Dashboard.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\Dashboard.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PresentationLayer\\Forms\\Dashboard.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:56:26.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Program.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Program.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Program.cs",
               "RelativeToolTip": "PresentationLayer\\Program.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAgwDsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -336,11 +483,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "SaleServices.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForSales\\SaleServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForSales\\SaleServices.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Services\\ServiceForSales\\SaleServices.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForSales\\SaleServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForSales\\SaleServices.cs",
               "RelativeToolTip": "BusinessLayer\\Services\\ServiceForSales\\SaleServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -348,11 +495,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\User.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\User.cs",
               "RelativeToolTip": "CommonLayer\\Entities\\User.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -360,11 +507,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "UserSession.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\UserSession.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Entities\\UserSession.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\UserSession.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\UserSession.cs",
               "RelativeToolTip": "CommonLayer\\Entities\\UserSession.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAIwBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -372,11 +519,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "LoginService.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForLogin\\LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForLogin\\LoginService.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Services\\ServiceForLogin\\LoginService.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForLogin\\LoginService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForLogin\\LoginService.cs",
               "RelativeToolTip": "BusinessLayer\\Services\\ServiceForLogin\\LoginService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -384,11 +531,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "AccountsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\AccountsRepo\\AccountsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\AccountsRepo\\AccountsRepository.cs",
               "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\AccountsRepo\\AccountsRepository.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\AccountsRepo\\AccountsRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\AccountsRepo\\AccountsRepository.cs",
               "RelativeToolTip": "DataAccesLayer\\Repositories\\AccountsRepo\\AccountsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -396,11 +543,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServeceForAccounts\\AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServeceForAccounts\\AccountService.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Services\\ServeceForAccounts\\AccountService.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServeceForAccounts\\AccountService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServeceForAccounts\\AccountService.cs",
               "RelativeToolTip": "BusinessLayer\\Services\\ServeceForAccounts\\AccountService.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -408,11 +555,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForProduct\\ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForProduct\\ProductService.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Services\\ServiceForProduct\\ProductService.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForProduct\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\BusinessLayer\\Services\\ServiceForProduct\\ProductService.cs",
               "RelativeToolTip": "BusinessLayer\\Services\\ServiceForProduct\\ProductService.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAuwDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -420,11 +567,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "AccountPaybles.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\AccountPaybles.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.cs",
               "RelativeToolTip": "PresentationLayer\\UsersControls\\AccountPaybles.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -433,70 +580,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Products.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Products.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Products.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Products.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PresentationLayer\\UsersControls\\Products.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T17:19:39.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AccountPaybles.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\AccountPaybles.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PresentationLayer\\UsersControls\\AccountPaybles.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T01:49:24.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CustomersRepository.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\CustomersRepo\\CustomersRepository.cs",
-              "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\CustomersRepo\\CustomersRepository.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\CustomersRepo\\CustomersRepository.cs",
-              "RelativeToolTip": "DataAccesLayer\\Repositories\\CustomersRepo\\CustomersRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBIAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T02:03:16.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "AccountPaybles.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.Designer.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\AccountPaybles.Designer.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\AccountPaybles.Designer.cs",
               "RelativeToolTip": "PresentationLayer\\UsersControls\\AccountPaybles.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T02:31:58.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SelectProducts.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectProducts.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectProducts.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectProducts.cs",
-              "RelativeToolTip": "PresentationLayer\\Forms\\SelectProducts.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAowDgAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T17:19:55.44Z",
+              "WhenOpened": "2025-11-21T02:31:58.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "Customers.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Customers.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Customers.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Customers.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Customers.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Customers.cs",
               "RelativeToolTip": "PresentationLayer\\UsersControls\\Customers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -505,22 +606,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Customers.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Customers.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Customers.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Customers.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PresentationLayer\\UsersControls\\Customers.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:05:19.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "PurchaseRegister.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\PurchaseRegister.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\PurchaseRegister.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\PurchaseRegister.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\PurchaseRegister.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\PurchaseRegister.cs",
               "RelativeToolTip": "PresentationLayer\\UsersControls\\PurchaseRegister.cs",
               "ViewState": "AgIAAI4AAAAAAAAAAAAqwKEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -528,11 +618,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "SuppliersRepository.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\SuppliersRepo\\SuppliersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\SuppliersRepo\\SuppliersRepository.cs",
               "RelativeDocumentMoniker": "DataAccesLayer\\Repositories\\SuppliersRepo\\SuppliersRepository.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\SuppliersRepo\\SuppliersRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\DataAccesLayer\\Repositories\\SuppliersRepo\\SuppliersRepository.cs",
               "RelativeToolTip": "DataAccesLayer\\Repositories\\SuppliersRepo\\SuppliersRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -540,35 +630,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "SelectFinishDate.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectFinishDate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectFinishDate.Designer.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectFinishDate.Designer.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectFinishDate.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectFinishDate.Designer.cs",
               "RelativeToolTip": "PresentationLayer\\Forms\\SelectFinishDate.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T21:07:19.074Z"
+              "WhenOpened": "2025-11-20T21:07:19.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "SelectFinishDate.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectFinishDate.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectFinishDate.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectFinishDate.cs",
-              "RelativeToolTip": "PresentationLayer\\Forms\\SelectFinishDate.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T21:10:22.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "PurchaseProduct.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\PurchaseProduct.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\PurchaseProduct.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Entities\\PurchaseProduct.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\PurchaseProduct.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\PurchaseProduct.cs",
               "RelativeToolTip": "CommonLayer\\Entities\\PurchaseProduct.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -576,11 +655,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "PurchaseItem.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\PurchaseItem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\PurchaseItem.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Entities\\PurchaseItem.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\PurchaseItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\PurchaseItem.cs",
               "RelativeToolTip": "CommonLayer\\Entities\\PurchaseItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -588,11 +667,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\CommonLayer\\Entities\\Product.cs",
               "RelativeToolTip": "CommonLayer\\Entities\\Product.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -600,22 +679,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "SelectProducts.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectProducts.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectProducts.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectProducts.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PresentationLayer\\Forms\\SelectProducts.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T17:18:54.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "Suppliers.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Suppliers.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Suppliers.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Suppliers.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Suppliers.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Suppliers.cs",
               "RelativeToolTip": "PresentationLayer\\UsersControls\\Suppliers.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAgwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -623,39 +691,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Products.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Products.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\UsersControls\\Products.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\UsersControls\\Products.cs",
-              "RelativeToolTip": "PresentationLayer\\UsersControls\\Products.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T17:28:17.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "SelectSupplier.cs",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectSupplier.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectSupplier.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectSupplier.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectSupplier.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Proyecto Contaduria\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectSupplier.cs",
               "RelativeToolTip": "PresentationLayer\\Forms\\SelectSupplier.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAuwCIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:37:21.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "SelectSupplier.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectSupplier.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\SelectSupplier.cs",
-              "ToolTip": "C:\\Users\\josue\\Desktop\\TecnoRespuestosProject\\TecnoRepuestos\\PresentationLayer\\Forms\\SelectSupplier.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PresentationLayer\\Forms\\SelectSupplier.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:30:13.106Z"
+              "WhenOpened": "2025-11-20T16:37:21.373Z"
             }
           ]
         }

@@ -1,3 +1,5 @@
+CREATE DATABASE TecnoRepuestosDB;
+GO
 use TecnoRepuestosDB
 
 --tabla roles

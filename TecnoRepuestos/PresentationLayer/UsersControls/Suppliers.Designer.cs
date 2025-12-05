@@ -114,7 +114,7 @@
             AddSupplierButton.Name = "AddSupplierButton";
             AddSupplierButton.Size = new Size(94, 29);
             AddSupplierButton.TabIndex = 0;
-            AddSupplierButton.Text = "7";
+            AddSupplierButton.Text = "Agregar";
             AddSupplierButton.UseVisualStyleBackColor = true;
             AddSupplierButton.Click += AddSupplierButton_Click;
             // 

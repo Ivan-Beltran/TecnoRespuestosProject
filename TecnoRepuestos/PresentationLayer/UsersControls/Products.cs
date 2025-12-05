@@ -87,12 +87,22 @@ namespace PresentationLayer.UsersControls
                 ModelTextBox.Clear();
                 CategoryCbx.SelectedIndex = -1;
 
-                LoadProduct(); 
+                LoadProduct();
             }
             catch (Exception ex)
             {
                 MessageBox.Show("Error al agregar producto: " + ex.Message);
             }
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Products_Load(object sender, EventArgs e)
+        {
+
         }
     }
 

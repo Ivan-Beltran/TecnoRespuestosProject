@@ -63,5 +63,10 @@ namespace PresentationLayer.Forms
             this.DialogResult = DialogResult.OK;
             this.Close();
         }
+
+        private void UnitCostTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
