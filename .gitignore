@@ -1,1 +1,18 @@
+# Visual Studio
 .vs/
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+Debug/
+Release/
+*.dll
+*.exe
+*.pdb
+
+# Cache
+*.cache
+*.db
+*.lock.json
